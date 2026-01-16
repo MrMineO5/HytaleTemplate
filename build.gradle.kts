@@ -17,7 +17,6 @@ dependencies {
 
 hytale {
     allowOp.set(true)
-    attachSources.set(false)
 }
 
 tasks.test {
