@@ -1,0 +1,15 @@
+{
+  "Group": "UltraDev",
+  "Name": "Template",
+  "Version": "1.0.0",
+  "Main": "app.ultradev.template.Plugin",
+  "Description": "",
+  "Authors": [],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "SubPlugins": []
+}
