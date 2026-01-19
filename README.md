@@ -1,7 +1,7 @@
 # Hytale Plugin Template
 
 > [!NOTE]
-> The master branch contains the kotlin template, switch to branch `java` if you prefer to use Java
+> The master branch contains the kotlin template, switch to branch [`java`](https://github.com/MrMineO5/HytaleTemplate/tree/java) if you prefer to use Java
 
 A template for creating Hytale plugins, uses the [Hytale Gradle Plugin](https://github.com/MrMineO5/HytaleGradlePlugin) to pull in the Hytale dependency and provide tasks.
 
