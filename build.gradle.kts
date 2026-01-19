@@ -16,4 +16,8 @@ dependencies {
 
 hytale {
     allowOp.set(true)
+
+    manifest {
+        version.set(project.version.toString())
+    }
 }
